@@ -1,2 +1,0 @@
-# car-game
-UNDER CONSTRUCTION
